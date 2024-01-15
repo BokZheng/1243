@@ -78,7 +78,7 @@
                 int y = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Your answer is: ");
-                
+                Console.Write(x / y);
             }
         }
     }
